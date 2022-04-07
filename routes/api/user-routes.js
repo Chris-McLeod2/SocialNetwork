@@ -12,16 +12,16 @@ deleteFriend
 
 router
 .route('/')
-.get(getAllUser)
-.post(createUser)
+.get(getAllUser) //done
+.post(createUser) //done
 
 
 
 router
 .route('/:id')
-.get(getUserById)
-.delete(deleteUser)
-.put(updateUser)
+.get(getUserById) //done
+.delete(deleteUser) //done
+.put(updateUser) //done
 
 router
 .route('/:userID/friends/:friendId')
