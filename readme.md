@@ -1,4 +1,4 @@
-# Professional Readme Generator ![Github License](https://img.shields.io/badge/license-MIT-green.svg)
+# SocialNetworkApi ![Github License](https://img.shields.io/badge/license-MIT-green.svg)
 
   ## Table of Contents
 
@@ -12,37 +12,31 @@
   
 
   ## Description
-  App gives the user a set of questions of which their answers are used to generate a readme file for their app
+  this project creates the backend routes for a social network Api
 
 
   ## Installation
-  User will download the app from my github and then run npm install and node index.js to run the app
+  npm i
 
   
   ## Usage
-  After running Npm install the user will run index.js and answer all the prompts given in the terminal
-       
-
-https://user-images.githubusercontent.com/91762149/152713554-b233f50c-634f-4271-9000-a8c8e7f3c4ae.mp4
-
+  run npm start and then go to insomnia to check routes
 
 
   ## Contributors
-  Chris-mcleod2
+  Chris_McLeod2
   
   ## Walkthrough
-
-
-https://user-images.githubusercontent.com/91762149/162501237-eb8719c4-40c3-49a8-b549-0f24fd8395c1.mp4
-
-
+  https://user-images.githubusercontent.com/91762149/162501237-eb8719c4-40c3-49a8-b549-0f24fd8395c1.mp4
 
 
   ## Contact
-  Email:   mcleod32@live.com     
-  Github: https://github.com/Chris-mcleod2 
+  Email: undefined   
+  Github: https://github.com/Chris_McLeod2 
 
 
   ## License
   MIT license is a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
+
+  
